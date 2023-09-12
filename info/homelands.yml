@@ -1,0 +1,16 @@
+---
+object: set
+id: 5ac1f606-e682-46e9-ad0f-122a3783581b
+code: hml
+tcgplayer_id: 57
+name: Homelands
+uri: https://api.scryfall.com/sets/5ac1f606-e682-46e9-ad0f-122a3783581b
+scryfall_uri: https://scryfall.com/sets/hml
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Ahml&unique=prints
+released_at: '1995-10-01'
+set_type: expansion
+card_count: 140
+digital: false
+nonfoil_only: true
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/hml.svg?1694404800
